@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SweetCake
-subtitle: Кусочек удовольствия!
+subtitle: Bon Appétit!
 description: >- # this means to ignore newlines until "baseurl:"
   Изящные торты
 author: Татьяна Таргоний
@@ -40,7 +40,7 @@ avatar: assets/images/face1.jpg
  
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/vestya" # the subpath of your site, e.g. /blog
-url: "/vestya" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
@@ -58,3 +58,6 @@ google_analytics:
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
 collections: [sections]
+defaults:
+    scope:
+    path: "assets/images"
