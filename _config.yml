@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Изящные торты
 author: Татьяна Таргоний
 email: vestichka@bigmir.net
-avatar: assets/images/face1.jpg
+avatar: assets/images/Lichtfestival-2.png.jp-1400x1050
  
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/vestya" # the subpath of your site, e.g. /blog

@@ -1,6 +1,6 @@
 ---
-title: Second Post
-author: Chris
+title: Наполеон
+author: Таня
 layout: post
 ---
 

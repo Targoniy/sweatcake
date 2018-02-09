@@ -1,14 +1,14 @@
 <div id="row{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="row">
-{% for picture in include.gallery.pictures %}
   <div id="4u 12u$(mobile){% if include.id_number %}-{{ include.id_number }}{% endif %}" class="4u 12u$(mobile)"></div>
+{% for picture in include.gallery.pictures %}
   <div class="item">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ picture.original }}"
     data-responsive="{% for size in picture.sizes %} {{ site.url}}{{ site.baseurl }}/assets/images/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}" class="image">
    {% if picture.thumbnail %}
-    <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ picture.thumbnail }}"></a>
-    {% endif %}
-  </div>  
+    {% include thumbnail.html %}
+   {% endif %}
  {% endfor %}
+  </div>  
 </div>
 
 <script>

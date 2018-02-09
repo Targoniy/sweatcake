@@ -1,6 +1,6 @@
 ---
-title: Third Post
-author: Chris
+title: Ще якийсь торт
+author: Таня
 layout: post
 icon: fa-lightbulb-o
 ---

@@ -1,18 +1,19 @@
-preview:
-- filename: Lichtfestival.png.jp
-  original: Lichtfestival.png.jp-1400x1050.jpg
-  sizes: []
-  thumbnail: Lichtfestival.png.jp-1400x1050.jpg
 pictures:
 - filename: Lichtfestival.png.jp
-  original: Lichtfestival.png.jp-1400x1050.jpg
-  sizes: []
-  thumbnail: Lichtfestival.png.jp-1400x1050.jpg
+  original: DSC05222.jpg
+  thumbnail: DSC05222.jpg
 - filename: Lichtfestival-2.png.jp
   original: Lichtfestival-2.png.jp-1400x1050.jpg
-  sizes: []
-  thumbnail: 
-- filename: Face
-  original: face1.jpg
-  sizes: []
-  thumbnail: 
+  thumbnail: falce
+- filename: DSC05217
+  original: DSC05217.jpg
+  thumbnail: falce
+- filename: DSC05235
+  original: DSC05235.jpg
+  thumbnail: falce  
+- filename: P71012-070843
+  original: P71012-070843.jpg
+  thumbnail: falce  
+- filename: P71012-123043
+  original: P71012-123043.jpg
+  thumbnail: falce  
