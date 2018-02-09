@@ -1,19 +1,22 @@
 pictures:
-- filename: Lichtfestival.png.jp
-  original: DSC05222.jpg
-  thumbnail: DSC05222.jpg
-- filename: Lichtfestival-2.png.jp
-  original: Lichtfestival-2.png.jp-1400x1050.jpg
+- filename: Lichtfestival.png.jp-1400x1050
+  original: Lichtfestival.png.jp-1400x1050.jpg
+  thumbnail: Lichtfestival.png.jp-1400x1050.jpg
+- filename: DSC05217_c0cygz_c_scale,w_1400
+  original: DSC05217_c0cygz_c_scale,w_1400.jpg
   thumbnail: falce
-- filename: DSC05217
-  original: DSC05217.jpg
+- filename: DSC05222_i4uxjp_c_scale,w_1400
+  original: DSC05222_i4uxjp_c_scale,w_1400.jpg
   thumbnail: falce
-- filename: DSC05235
-  original: DSC05235.jpg
+- filename: DSC05226_wvi31v_c_scale,w_1400
+  original: DSC05226_wvi31v_c_scale,w_1400.jpg
   thumbnail: falce  
-- filename: P71012-070843
-  original: P71012-070843.jpg
+- filename: DSC05235_aeedjd_c_scale,w_1400
+  original: DSC05235_aeedjd_c_scale,w_1400.jpg
   thumbnail: falce  
-- filename: P71012-123043
-  original: P71012-123043.jpg
+- filename: P71012-070843_jrawic_c_scale,w_1400
+  original: P71012-070843_jrawic_c_scale,w_1400.jpg
+  thumbnail: falce  
+- filename: P71012-123043_eclyzy_c_scale,w_1400
+  original: P71012-123043_eclyzy_c_scale,w_1400.jpg
   thumbnail: falce  
