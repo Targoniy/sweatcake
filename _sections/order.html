@@ -1,0 +1,12 @@
+---
+layout: default
+title: Заказать
+icon: fa-shopping-cart
+order: 5
+permalink: 
+---
+<ul>
+    {% for cake in site.cakes %}
+    <li style="text-align: left; font-size: 30px;margin: 0.65em;"><a href="{{site.baseurl}}{{ cake.url }}">{{ cake.title }}</a></li>
+    {% endfor %}
+</ul>

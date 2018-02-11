@@ -8,10 +8,12 @@ order: 4
 
 <form method="post" action="https://formspree.io/{{ site.email }}">
   <div class="row">
-    <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Имя" /></div>
-    <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
+    <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Имя"  /></div>
+    <div class="6u$ 12u$(mobile)"><input type="text" name="_replyto" placeholder="Email" /></div>
+    <input type="hidden" name="_subject" value="Sweatcake-site message." />
+    <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks" />
     <div class="12u$">
-      <textarea name="message" placeholder="Сообщение"></textarea>
+      <textarea name ="message" placeholder="Сообщение"></textarea>
     </div>
     <div class="12u$">
       <input type="submit" value="Send Message" />
