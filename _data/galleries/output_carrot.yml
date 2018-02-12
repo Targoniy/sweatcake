@@ -20,3 +20,18 @@ pictures:
 - filename: P71012-123043_eclyzy_c_scale,w_1400
   original: P71012-123043_eclyzy_c_scale,w_1400.jpg
   thumbnail: falce  
+- filename: carrot
+  original: carrot.png
+  thumbnail: falce   
+- filename: uknown1
+  original: uknown1.jpg
+  thumbnail: falce   
+- filename: uknown2
+  original: uknown2.jpg
+  thumbnail: falce
+- filename: uknown3
+  original: uknown3.jpg
+  thumbnail: falce         
+- filename: cake
+  original: cakes.jpg
+  thumbnail: falce     
