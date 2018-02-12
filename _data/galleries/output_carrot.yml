@@ -35,3 +35,6 @@ pictures:
 - filename: cake
   original: cakes.jpg
   thumbnail: falce     
+- filename: cut
+  original: cut.jpg
+  thumbnail: falce      
