@@ -38,3 +38,6 @@ pictures:
 - filename: cut
   original: cut.jpg
   thumbnail: falce      
+- filename: velvet
+  original: velvet.jpg
+  thumbnail: falce      
