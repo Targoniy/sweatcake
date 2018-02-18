@@ -40,4 +40,10 @@ pictures:
   thumbnail: falce      
 - filename: velvet
   original: velvet.jpg
-  thumbnail: falce      
+  thumbnail: falce
+- filename: berry1
+  original: berry1.jpg
+  thumbnail: falce
+- filename: berry2
+  original: berry2.jpg
+  thumbnail: falce
