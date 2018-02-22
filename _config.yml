@@ -39,13 +39,13 @@ avatar: assets/images/top.jpg
  
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/sweatcake" # the subpath of your site, e.g. /blog
-url: "https://targoniy.github.io" # the base hostname & protocol for your site
+url: "sweetcake.biz.ua" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:
+facebook_url: https://www.facebook.com/vestichka
 github_url:
 googleplus_url:
-instagram_url: https://www.instagram.com/vestichka/
+instagram_url: https://www.instagram.com/vestichka_cake/
 linkedin_url:
 pinterest_url:
 slack_url:
