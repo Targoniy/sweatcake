@@ -1,49 +1,49 @@
 pictures:
 - filename: Lichtfestival.png.jp-1400x1050
   original: Lichtfestival.png.jp-1400x1050.jpg
-  thumbnail: Lichtfestival.png.jp-1400x1050.jpg
+  thumbnail: cut.jpg    
 - filename: DSC05217_c0cygz_c_scale,w_1400
   original: DSC05217_c0cygz_c_scale,w_1400.jpg
-  thumbnail: false
+  thumbnail: 
 - filename: DSC05222_i4uxjp_c_scale,w_1400
   original: DSC05222_i4uxjp_c_scale,w_1400.jpg
-  thumbnail: false
+  thumbnail: 
 - filename: DSC05226_wvi31v_c_scale,w_1400
   original: DSC05226_wvi31v_c_scale,w_1400.jpg
-  thumbnail: false  
+  thumbnail: 
 - filename: DSC05235_aeedjd_c_scale,w_1400
   original: DSC05235_aeedjd_c_scale,w_1400.jpg
-  thumbnail: false  
+  thumbnail: 
 - filename: P71012-070843_jrawic_c_scale,w_1400
   original: P71012-070843_jrawic_c_scale,w_1400.jpg
-  thumbnail: false  
+  thumbnail: 
 - filename: P71012-123043_eclyzy_c_scale,w_1400
   original: P71012-123043_eclyzy_c_scale,w_1400.jpg
-  thumbnail: false  
+  thumbnail: 
 - filename: carrot
   original: carrot.png
-  thumbnail: false   
+  thumbnail: 
 - filename: uknown1
   original: uknown1.jpg
-  thumbnail: false   
+  thumbnail: 
 - filename: uknown2
   original: uknown2.jpg
-  thumbnail: false
+  thumbnail: 
 - filename: uknown3
   original: uknown3.jpg
-  thumbnail: false         
+  thumbnail: 
 - filename: cake
   original: cakes.jpg
-  thumbnail: false     
-- filename: cut
-  original: cut.jpg
-  thumbnail: false      
+  thumbnail: 
 - filename: velvet
   original: velvet.jpg
-  thumbnail: false
+  thumbnail: 
 - filename: berry1
   original: berry1.jpg
-  thumbnail: false
+  thumbnail: 
 - filename: berry2
   original: berry2.jpg
-  thumbnail: false
+  thumbnail: 
+- filename: cut
+  original: cut.jpg
+  thumbnail: 

@@ -4,10 +4,13 @@
   <div class="item">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ picture.original }}"
     data-responsive="{% for size in picture.sizes %} {{ site.url}}{{ site.baseurl }}/assets/images/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}" class="image">
-   {% if picture.thumbnail %}
-    {% include thumbnail.html %}
+   {% if picture.thumbnail == empty %}
+   <img  src="">
+   {% elsif picture.thumbnail == 'cut.jpg' %} 
+    <img  src="{{ site.url }}{{ site.baseurl }}/assets/images/{{picture.thumbnail}}"></a>
    {% endif %}
- {% endfor %}
+   </a>
+{% endfor %}
   </div>  
 </div>
 
