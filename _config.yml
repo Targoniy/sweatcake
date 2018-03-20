@@ -31,6 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SweetCake
+text: Торты на заказ в г.Бровары
 subtitle: Bon Appétit!
 description: >- # this means to ignore newlines until "baseurl:"
 author: Татьяна Таргоний
