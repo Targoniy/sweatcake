@@ -3,7 +3,18 @@ layout: page
 title: Ягодные вариации
 permalink: "/berrys"
 ---
-<span class="image"><img src="{{ 'assets/images/.jpg' | relative_url }}" alt="" /></span>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Торт ягодные вариации",
+  "image": [
+    "http://sweetcake.biz.ua/assets/images/top.jpg"
+    ],
+  "description": "Изумительно вкусный торт Ягодные вариации на заказ в г. Бровары."
+}
+</script>
+<span class="image"><img src="{{ 'assets/images/top.jpg' | relative_url }}" alt="" /></span>
 <h3>300 грн/кг:</h3>
 <p>Коржи, в основе которых цедра лимона и натуральный йогурт. Воздушный крем с бельгийским белым шоколадом и ягодным пюре. Прослойка ягодного кули.</p>
 {% include terms.html %}
