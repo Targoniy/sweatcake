@@ -47,3 +47,6 @@ pictures:
 - filename: cut
   original: cut.jpg
   thumbnail: 
+- filename: spinach
+  original: spinach.jpg
+  thumbnail:     
