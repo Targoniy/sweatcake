@@ -50,3 +50,9 @@ pictures:
 - filename: spinach
   original: spinach.jpg
   thumbnail:     
+- filename: spinach2
+  original: spinach2.jpg
+  thumbnail:         
+- filename: spinach3
+  original: spinach3.jpg
+  thumbnail:         
