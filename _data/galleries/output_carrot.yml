@@ -56,3 +56,12 @@ pictures:
 - filename: spinach3
   original: spinach3.jpg
   thumbnail:         
+- filename: misha
+  original: misha.jpg
+  thumbnail:         
+- filename: cheescake
+  original: cheescake.jpg
+  thumbnail:
+- filename: nuts
+  original: nuts.jpg
+  thumbnail:
