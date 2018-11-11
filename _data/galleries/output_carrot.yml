@@ -1,28 +1,26 @@
 pictures:
+
+- filename: top_new
+  original: top_new.jpg
+  thumbnail: top_new.jpg
+
+- filename: cheescake
+  original: cheescake.jpg
+  thumbnail: cheescake.jpg
+
 - filename: Lichtfestival.png.jp-1400x1050
   original: Lichtfestival.png.jp-1400x1050.jpg
   thumbnail: cut.jpg    
-- filename: DSC05217_c0cygz_c_scale,w_1400
-  original: DSC05217_c0cygz_c_scale,w_1400.jpg
-  thumbnail: 
+
 - filename: DSC05222_i4uxjp_c_scale,w_1400
   original: DSC05222_i4uxjp_c_scale,w_1400.jpg
   thumbnail: 
-- filename: DSC05226_wvi31v_c_scale,w_1400
-  original: DSC05226_wvi31v_c_scale,w_1400.jpg
-  thumbnail: 
-- filename: DSC05235_aeedjd_c_scale,w_1400
-  original: DSC05235_aeedjd_c_scale,w_1400.jpg
-  thumbnail: 
+
+
 - filename: P71012-070843_jrawic_c_scale,w_1400
   original: P71012-070843_jrawic_c_scale,w_1400.jpg
   thumbnail: 
-- filename: P71012-123043_eclyzy_c_scale,w_1400
-  original: P71012-123043_eclyzy_c_scale,w_1400.jpg
-  thumbnail: 
-- filename: carrot
-  original: carrot.png
-  thumbnail: 
+
 - filename: uknown1
   original: uknown1.jpg
   thumbnail: 
@@ -38,9 +36,7 @@ pictures:
 - filename: velvet
   original: velvet.jpg
   thumbnail: 
-- filename: berry1
-  original: berry1.jpg
-  thumbnail: 
+
 - filename: berry2
   original: berry2.jpg
   thumbnail: 
@@ -59,9 +55,49 @@ pictures:
 - filename: misha
   original: misha.jpg
   thumbnail:         
-- filename: cheescake
-  original: cheescake.jpg
-  thumbnail:
+
+
 - filename: nuts
   original: nuts.jpg
-  thumbnail:
+  thumbnail:  
+
+- filename: 1new
+  original: 1new.jpg
+  thumbnail:      
+
+- filename: 2
+  original: 2.jpeg
+  thumbnail:        
+
+
+- filename: 3
+  original: 3.jpg
+  thumbnail:           
+
+- filename: 4
+  original: 4.jpg
+  thumbnail:        
+
+- filename: 5
+  original: 5.jpg
+  thumbnail:            
+
+- filename: 6
+  original: 6.jpg
+  thumbnail:     
+
+- filename: 7
+  original: 7.jpg
+  thumbnail:    
+
+- filename: 8
+  original: 8.jpg
+  thumbnail:     
+
+- filename: 9
+  original: 9.jpg
+  thumbnail:         
+
+- filename: feda
+  original: feda.jpg
+  thumbnail:             
