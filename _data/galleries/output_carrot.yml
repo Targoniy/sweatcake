@@ -109,10 +109,10 @@ thumbnail:
 - filename: 11
   original: 11.jpg
 thumbnail:  
- - filename: 12
+- filename: 12
   original: 12.jpg 
 thumbnail:  
-  - filename: 13
+- filename: 13
   original: 13.jpg
 thumbnail:  
 
@@ -128,7 +128,7 @@ thumbnail:
 - filename: 17
   original: 17.jpg
 thumbnail:  
-  - filename: 18
+- filename: 18
   original: 18.jpg
 thumbnail:  
 
@@ -139,6 +139,6 @@ thumbnail:
 - filename: 20
   original: 20.jpg
 thumbnail:  
-  - filename: earl_gray
+- filename: earl_gray
   original: earl_gray.jpg
   thumbnail:  
