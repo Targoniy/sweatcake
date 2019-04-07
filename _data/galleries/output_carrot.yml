@@ -43,9 +43,7 @@ pictures:
 - filename: cut
   original: cut.jpg
   thumbnail: 
-- filename: spinach
-  original: spinach.jpg
-  thumbnail:     
+     
 - filename: spinach2
   original: spinach2.jpg
   thumbnail:         
@@ -101,3 +99,45 @@ pictures:
 - filename: feda
   original: feda.jpg
   thumbnail:             
+
+- filename: feda
+  original: feda.jpg
+
+- filename: 3_choc
+  original: 3_choc.jpg
+
+- filename: 11
+  original: 11.jpg
+
+ - filename: 12
+  original: 12.jpg 
+
+  - filename: 13
+  original: 13.jpg
+
+
+- filename: 14
+  original: 14.jpg
+
+- filename: 15
+  original: 15.jpg
+
+- filename: 16
+  original: 16.jpg
+
+- filename: 17
+  original: 17.jpg
+
+  - filename: 18
+  original: 18.jpg
+
+
+- filename: 19
+  original: 19.jpg
+
+
+- filename: 20
+  original: 20.jpg
+
+  - filename: earl_gray
+  original: earl_gray.jpg
