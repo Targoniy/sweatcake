@@ -4,6 +4,7 @@ pictures:
   original: top_new.jpg
   thumbnail: top_new.jpg
 
+
 - filename: cheescake
   original: cheescake.jpg
   thumbnail: cheescake.jpg
@@ -100,45 +101,52 @@ pictures:
   original: feda.jpg
   thumbnail:             
 
-- filename: feda
-  original: feda.jpg
-thumbnail:  
-- filename: 3_choc
-  original: 3_choc.jpg
-thumbnail:  
-- filename: 11
-  original: 11.jpg
-thumbnail:  
-- filename: 12
-  original: 12.jpg 
-thumbnail:  
-- filename: 13
-  original: 13.jpg
-thumbnail:  
 
-- filename: 14
-  original: 14.jpg
-thumbnail:  
-- filename: 15
-  original: 15.jpg
-thumbnail:  
-- filename: 16
-  original: 16.jpg
-thumbnail:  
-- filename: 17
-  original: 17.jpg
-thumbnail:  
-- filename: 18
-  original: 18.jpg
-thumbnail:  
+- filename: 3_choc-min
+  original: 3_choc-min.jpg
+  thumbnail:  
 
-- filename: 19
-  original: 19.jpg
-thumbnail:  
+- filename: 11-min
+  original: 11-min.jpg
+  thumbnail:  
 
-- filename: 20
-  original: 20.jpg
-thumbnail:  
-- filename: earl_grey
-  original: earl_grey.jpg
+- filename: 12-min
+  original: 12-min.jpg 
+  thumbnail:  
+
+- filename: 13-min
+  original: 13-min.jpg
+  thumbnail:  
+
+- filename: 14-min
+  original: 14-min.jpg
+  thumbnail:  
+- filename: 15-min
+  original: 15-min.jpg
+  thumbnail:  
+
+- filename: 16-min
+  original: 16-min.jpg
+  thumbnail:  
+
+- filename: 17-min
+  original: 17-min.jpg
+  thumbnail:  
+
+- filename: 18-min
+  original: 18-min.jpg
+  thumbnail:  
+
+
+- filename: 19-min
+  original: 19-min.jpg
+  thumbnail:  
+
+
+- filename: 20-min
+  original: 20-min.jpg
+  thumbnail:  
+
+- filename: earl_grey_new-min
+  original: earl_grey_new-min.jpg
   thumbnail:  
