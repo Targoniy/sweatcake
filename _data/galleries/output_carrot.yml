@@ -1,5 +1,9 @@
 pictures:
 
+- filename: session3
+  original: session3.jpg
+  thumbnail: session3.jpg
+
 - filename: session6
   original: session6.jpg
   thumbnail: session6.jpg
@@ -10,8 +14,6 @@ pictures:
 - filename: session2
   original: session2.jpg
 
-- filename: session3
-  original: session3.jpg
 
 - filename: session4
   original: session4.jpg
