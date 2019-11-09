@@ -1,5 +1,27 @@
 pictures:
 
+- filename: session6
+  original: session6.jpg
+  thumbnail: session6.jpg
+
+- filename: session1
+  original: session1.jpg
+
+- filename: session2
+  original: session2.jpg
+
+- filename: session3
+  original: session3.jpg
+
+- filename: session4
+  original: session4.jpg
+
+- filename: session5
+  original: session5.jpg
+
+- filename: session6
+  original: session6.jpg
+
 - filename: top_new
   original: top_new.jpg
   thumbnail: top_new.jpg
